@@ -22,6 +22,6 @@ Pour faciliter le test et la maintenance de l'API, une documentation interactive
 
 **Lien local** : http://127.0.0.1:8000/docs 
 
-**Note** : Ce lien est accessible une fois le serveur local lancé via la commande uvicorn.
+**Note** : Ce lien est accessible une fois le serveur local lancé via la commande **uvicorn**.
 
 Cette interface (Swagger UI) permet de tester chaque "**endpoint**" (POST, GET, PUT, DELETE) directement depuis le navigateur sans avoir besoin d'un outil externe comme Postman.
